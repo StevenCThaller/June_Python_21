@@ -1,13 +1,14 @@
 # What are the differences between JavaScript and Python?
 
 <style>
-table {
-    width: 100%;
-}
+    table {
+        width: 100%;
+    }
 </style>
 
 
 <table width="500">
+    
 <thead>
 <tr>
 <th>
