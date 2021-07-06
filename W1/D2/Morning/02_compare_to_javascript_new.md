@@ -1,6 +1,6 @@
 # What are the differences between JavaScript and Python?
 
-<table>
+<table width="500">
 <thead>
 <tr>
 <th>
