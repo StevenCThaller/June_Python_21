@@ -6,7 +6,7 @@ Welcome to Python! I'm your host (for the first week), Cody!
  Day | Algos | Morning | Afternoon
  --- | --- | --- | ---
 Mon | No | Class | Today
-Tue | [Code](https://github.com/StevenCThaller/June_Python_21/blob/main/Algos/W1/D2.js) &#124; Processing | [Code](https://github.com/StevenCThaller/June_Python_21/blob/main/W1/D2/Morning) &#124; Processing | 
+Tue | [Code](https://github.com/StevenCThaller/June_Python_21/blob/main/Algos/W1/D2.js) &#124; Re-Record Needed | [Python Fundamentals](https://github.com/StevenCThaller/June_Python_21/blob/main/W1/D2/01_Python_Fundamentals) &#124; Re-Record Needed | [Strings, Tuples, Dictionaries](https://github.com/StevenCThaller/June_Python_21/blob/main/W1/D2/02_Strings_Tuples_Dictionaries) &#124; Processing
 Wed | | |
 Thu | | |
 Fri | | |
