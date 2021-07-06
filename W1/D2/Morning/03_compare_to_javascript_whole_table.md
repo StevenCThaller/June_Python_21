@@ -1,5 +1,11 @@
 # What are the differences between JavaScript and Python?
 
+<style>
+table {
+    width: 100%;
+}
+</style>
+
 <table>
 <thead>
 <tr>
