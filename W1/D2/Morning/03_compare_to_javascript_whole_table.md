@@ -289,7 +289,7 @@ console.log(myFunction(15, 4));
 ```py
 def my_function(param_1, param_2):
     x = param_1
-    return param_2
+    return x - param_2
 
 print(my_function(15, 4))
 # Expected Output:
