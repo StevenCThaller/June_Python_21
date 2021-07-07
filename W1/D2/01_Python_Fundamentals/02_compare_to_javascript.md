@@ -68,7 +68,7 @@ if(age >= 21) { // curly braces to open code blocks
 ```py
 age = 25
 
-if age >= 25: # colon AND indentation to open code blocks
+if age >= 21: # colon AND indentation to open code blocks
     print("You may purchase a beer!")
 elif age >= 18: # no more else if, it's now elif
     print("You can vape or whatever.")
@@ -115,7 +115,10 @@ for(var i = 0; i < 11; i++) {
 Python for loops LOOK different, but we can easily do the same thing.
 ```py
 for i in range(11): # wait wat
-    print(i)
+    if i == 3:
+        print("Trey")
+    else:
+        print(i)
 ```
 
 That `11` is what we call an `Exclusive Stop`. Functionally, this is just `i < 11`.
@@ -131,7 +134,7 @@ Output
 // 0
 // 1
 // 2
-// 3
+// Trey
 // 4
 // 5
 // 6
@@ -149,7 +152,7 @@ Output
 # 0
 # 1
 # 2
-# 3
+# Trey
 # 4
 # 5
 # 6
@@ -298,6 +301,67 @@ Output
 </tr>
 </tbody>
 </table>
+
+### What about going backwards?
+
+<table>
+<thead>
+<tr>
+<th>JavaScript</th>
+<th>Python</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+
+```js
+for(var i = 10; i >= 0; i-=2) {
+    console.log(i);
+}
+```
+
+</td>
+<td>
+
+
+```py
+for i in range(10, -1, -2): 
+    print(i)
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+Output
+```js
+// 10
+// 8
+// 6
+// 4
+// 2
+```
+
+</td>
+<td>
+
+Output
+```py
+# 10
+# 8
+# 6
+# 4
+# 2
+```
+
+</td>
+</tr>
+</tbody>
+</table>
+
 
 -------
 
