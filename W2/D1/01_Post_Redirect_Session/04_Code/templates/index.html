@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/heroes" method="post">
+        <div>
+            <label for="name">Name: </label>
+            <input type="text" name="name" id="name">
+        </div>
+        <div>
+            <label for="alter_ego">Alter Ego: </label>
+            <input type="text" name="alter_ego" id="alter_ego">
+        </div>
+        <div>
+            <label for="catch_phrase">Catch Phrase: </label>
+            <textarea name="catch_phrase" id="catch_phrase" cols="10" rows="3"></textarea>
+        </div>
+        <input type="submit" value="Create Hero">
+    </form>
+</body>
+</html>
