@@ -16,3 +16,4 @@ Fri | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W1
  Day | Algos | Morning | Afternoon
  --- | --- | --- | ---
  Mon | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D1.js) &#124; [Recording](https://youtu.be/EowGbvON80A) | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D1/01_Post_Redirect_Session) &#124; [Recording](https://youtu.be/gDdpFoWiP_A) | Ninja Gold
+ Tue | [Intro](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D2_Intro.md) - [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D2.js) &#124; Processing | [Database Design](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D2/01_Database_Design) &#124; Processing |
