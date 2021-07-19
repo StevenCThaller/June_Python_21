@@ -20,3 +20,13 @@ Fri | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W1
  Wed | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D3.js) &#124; [Recording](https://youtu.be/JQjVCM6gV64) | [SQL Queries](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D3/01_Querying_SQL) &#124; [Recording](https://youtu.be/2m0v7pwgqJo) | [Sakila](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D3/02_Sakila) &#124; [Recording](https://youtu.be/wMXlsh5TwUM)
  Thu | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D4.js) &#124; [Recording](https://youtu.be/Mf9cKjiLya0) | [Flask and MySQL](https://github.com/StevenCThaller/Python_July_21/blob/main/D4/01_Flask_And_MySQL) &#124; [Recording](https://youtu.be/ZmCR33NC1MA) | [Modularization](https://youtu.be/E7vVFqpvaTo)
  Fri | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W2/D5.js) &#124; [Recording](https://youtu.be/F42wIKmPRjA) | [One to Many in Flask](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D5/01_One_To_Many_In_Flask) &#124; [Recording](https://youtu.be/qjZHkYuWVhM) | [Q&A](https://github.com/StevenCThaller/Python_July_21/blob/main/W2/D5/02_Open_Q_A) &#124; [Recording](https://youtu.be/t_0TkeXmp7M)
+
+
+## Week 3
+Day | Algos | Morning | Afternoon
+--- | --- | --- | ---
+Mon | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W3/D1.js) &#124; [Recording](https://youtu.be/vRjO7-cHte4) | [Validations](https://github.com/StevenCThaller/Python_July_21/blob/main/W3/D1/01_Validations) &#124; [Recording](https://youtu.be/x4k9w0y8Ql0) | Log Reg
+Tue | TBD | TBD | TBD
+Wed | TBD | TBD | TBD
+Thu | Belt | Exam | Woo
+Fri | TBD | TBD | TBD
