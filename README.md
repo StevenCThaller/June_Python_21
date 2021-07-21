@@ -27,6 +27,6 @@ Day | Algos | Morning | Afternoon
 --- | --- | --- | ---
 Mon | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W3/D1.js) &#124; [Recording](https://youtu.be/vRjO7-cHte4) | [Validations](https://github.com/StevenCThaller/Python_July_21/blob/main/W3/D1/01_Validations) &#124; [Recording](https://youtu.be/x4k9w0y8Ql0) | [Bcrypt](https://github.com/StevenCThaller/Python_July_21/blob/main/W3/D1/02_Bcrypt_Log_reg/01_Bcrypt.md) &#124; [Recording](https://youtu.be/oRBGlhGAjDE)
 Tue | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W3/D2.js) &#124; [Recording](https://youtu.be/wqIScVu9NHI) | Belt Discussion | Code Reviews
-Wed | TBD | Belt Prep Demo | No Session
+Wed | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/Algos/W3/D3.js) &#124; [Recording](https://youtu.be/2tfk6LvRMaA) | [Code](https://github.com/StevenCThaller/Python_July_21/blob/main/W3/D3/01_Belt_Prep_Demo) &#124; [Recording](https://youtu.be/Edp7KHq66ac) | No Session
 Thu | Belt | Exam | Woo
 Fri | TBD | TBD | TBD
